@@ -1,0 +1,7 @@
+{
+    "editor.lineNumbers": "off",
+    "css.validate": false,
+    "[html]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    }
+}
